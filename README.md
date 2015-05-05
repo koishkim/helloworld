@@ -2,7 +2,7 @@
 hello?
 edits here :-)
 editing in slave1
-again
+oops, another slave?
 and... again!
 testing merge
-edit in slave 1
+no, i'm slave1, and only.
