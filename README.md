@@ -5,4 +5,4 @@ editing in slave1
 again
 and... again!
 testing merge
-edit in slave 1
+i'm new here! slave2!
